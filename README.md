@@ -1,2 +1,2 @@
 # gitcheckoffLine 1
-partner2 change
+partner2 changeLine 3
